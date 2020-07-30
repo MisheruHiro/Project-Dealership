@@ -1,0 +1,5 @@
+20200731 Hyundai_Kona Diesel Rosso 1800 3
+20200802 Toyota_Yaris Benzina Bianco 1300 0
+20200730 Audi_Q2_Admired Diesel Blu 1600 3
+20200803 Fiat_Panda Diesel Rosso 1300 2
+20200810 Fiat_Panda Benzina Blu 1100 0

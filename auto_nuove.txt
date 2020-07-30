@@ -1,0 +1,6 @@
+BMW_Serie_3 Benzina Blu 1600 1
+Fiat_500_Abarth Benzina Rosso 1300 2
+Hyundai_i20 Diesel Grigio 1400 0
+Nissan_Micra Diesel Bianco 1600 1
+Peugeot_308 Diesel Nero 1600 3
+Peugeot_508 Benzina Bianco 1600 2

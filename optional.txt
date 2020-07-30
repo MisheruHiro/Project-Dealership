@@ -1,0 +1,6 @@
+Climatizzatore 
+Radio_DAB Cerchi_17 
+
+Sensori_parcheggio 
+Radio_DAB Cerchi_18 Finestrini_oscurati 
+Allestimento_GT Cambio_AT_8 

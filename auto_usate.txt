@@ -1,0 +1,3 @@
+BMW_Serie_3 Diesel Blu 2000 23456
+Ferrari_F40 Benzina Rosso 3000 5670
+Suzuki_Celero Benzina Verde 1300 103650
