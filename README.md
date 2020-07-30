@@ -6,12 +6,19 @@ Attenzione: Prima che il progamma vi mostri quetsa schermata ci sarà una richie
 Menu
 
 1- Inserimento auto nuove
+
 2- Inserimento auto usate
+
 3- Auto presenti in concessionaria
+
 4- Vendita Nuovo
+
 5- Vendita Usato
+
 6- Elenco Ordini Effettuati
+
 7- Ordina un veicolo
+
 0- Esci
 
 ►Nell’opzione “Inserimento auto nuove/usate” verranno prese in considerazione le seguenti caratteristiche: marca, modello, carburante, colore e cilindrata, tramite l’inserimento da tastiera. Il programma chiederà inoltre se aggiungere anche il pacchetto optional, se la risposta è affermativa l’utente amministratore potrà inserire singolarmente gli optional che saranno presenti nel pacchetto, se invece è negativa il campo degli optional rimarrà vuoto.
