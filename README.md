@@ -4,9 +4,7 @@ Il programma consiste nella gestione delle vendite e ordini di una Concessionari
 Attenzione: Prima che il progamma vi mostri quetsa schermata ci sarà una richiesta di inserire la password (Ludostorm), e vi chiederà in oltre di aggiungere la data odierna nel programma.
 
 Menu
-
 1- Inserimento auto nuove
-
 2- Inserimento auto usate
 
 3- Auto presenti in concessionaria
