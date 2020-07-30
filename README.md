@@ -1,4 +1,4 @@
-# Project-Dealership
+# Project-Dealership (Concessionaria)
 Il programma consiste nella gestione delle vendite e ordini di una Concessionaria Automobilistica, è gestibile solo dall’amministratore. La schermata principale sarà disposta utilizzando uno Switch Case come segue:
 
 Attenzione: Prima che il progamma vi mostri quetsa schermata ci sarà una richiesta di inserire la password (Ludostorm), e vi chiederà in oltre di aggiungere la data odierna nel programma.
